@@ -10,7 +10,6 @@
 #### 📊 	&nbsp; This week I spent time working in
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 2 mins     ███████████████████████░░   92.31 % 
-Python       4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
