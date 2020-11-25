@@ -10,6 +10,6 @@
 #### 📊 	&nbsp; This week I spent time working in
 <!--START_SECTION:waka-->
 ```text
-
+JavaScript   54 mins         ████████████████████████▓   99.03 % 
 ```
 <!--END_SECTION:waka-->
