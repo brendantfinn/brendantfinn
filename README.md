@@ -10,6 +10,6 @@
 #### 📊 	&nbsp; This week I spent time working in
 <!--START_SECTION:waka-->
 ```text
-HTML   6 mins          █████████████████████▓░░░   86.15 % 
+
 ```
 <!--END_SECTION:waka-->
