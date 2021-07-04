@@ -10,6 +10,7 @@
 #### 📊 	&nbsp; This week I spent time working in
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML         15 mins         █████████████████░░░░░░░░   68.63 % 
+Markdown     7 mins          ███████▓░░░░░░░░░░░░░░░░░   31.24 % 
 ```
 <!--END_SECTION:waka-->
